@@ -1,4 +1,0 @@
-	</div>
-	</center>
-</body>
-</html>
